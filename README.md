@@ -1,3 +1,4 @@
 # hello-world
+This branch contains content that’s different from Master
 This is my first repository to learn how to use Git-hub
-好开心，今天考完了所有的试
+This is my discription of new branch commit
